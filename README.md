@@ -1,4 +1,4 @@
-# Week 06 - Final playtests
+# Week 06 - Final Playtests
 Today will be your final, structured playtest for your Level Design Task. If you are unable to make it to class, please follow these steps as appropriate at home with friends and family.
 
 ## Tools used
